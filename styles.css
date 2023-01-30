@@ -1,0 +1,9 @@
+h1 {
+  color: blue;
+  font-size: x-large;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+}
